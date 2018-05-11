@@ -1,0 +1,22 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "description": "webpack setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksunilssah/webpack.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "PG, Sunil, Sneh Raj <ksunilssah@gmail.com> (http://localhost)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ksunilssah/webpack/issues"
+  },
+  "homepage": "https://github.com/ksunilssah/webpack#readme"
+}
